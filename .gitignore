@@ -1,5 +1,4 @@
-# Ignore files with extension `.class` & `.exe`
-*.a
-*.out
-*.class
-*.exe
+# Ignore executable files
+*
+!*.*
+!*/
